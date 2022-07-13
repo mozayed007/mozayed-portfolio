@@ -65,7 +65,7 @@ sections:
           - pt-40
           - pb-40
           - pl-15
-          - pr-0
+          - pr-15
         alignItems: center
         justifyContent: center
         flexDirection: row
