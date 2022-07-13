@@ -86,7 +86,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: MediaGallerySection
 
   - type: ContactSection
     colors: colors-d
