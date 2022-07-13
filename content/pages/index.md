@@ -109,7 +109,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 70
   - elementId: ''
     colors: colors-c
     variant: variant-a
