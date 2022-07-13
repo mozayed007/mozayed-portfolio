@@ -191,7 +191,7 @@ sections:
         iconPosition: right
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/wp8740316-python-code-wallpapers.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
