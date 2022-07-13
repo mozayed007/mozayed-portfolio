@@ -179,7 +179,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-e
     backgroundSize: full
-    title: Try
+    title: 'Find me also on Kaggle:'
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
