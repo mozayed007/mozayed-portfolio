@@ -181,7 +181,7 @@ sections:
     backgroundSize: full
     title: 'Find me also on Kaggle:'
     text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
+      [My Kaggle Profile.](https://www.kaggle.com/lordmz)
     actions:
       - type: Link
         label: Join adventure
