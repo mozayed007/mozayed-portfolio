@@ -151,7 +151,7 @@ sections:
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
+    readMoreLinkLabel: Read More.
     showAuthor: false
   - type: TextSection
     colors: colors-e
