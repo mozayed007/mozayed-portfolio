@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Fishing from the coast
+title: Get Your Watch-List Automated !!!
 colors: colors-d
 date: '2021-11-03'
 excerpt: >-
