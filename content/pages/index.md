@@ -25,7 +25,7 @@ sections:
     actions:
       - type: Button
         label: 'Projects | Blogs '
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         style: primary
         url: /blog
