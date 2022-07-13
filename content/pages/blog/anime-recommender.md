@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpg
+  url: /images/39033.png
   altText: Post Image
 media:
   type: ImageBlock
