@@ -113,7 +113,7 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: Recent Projects
+    title: 'Recent Projects | Blogs :'
     actions:
       - type: Link
         label: See all
