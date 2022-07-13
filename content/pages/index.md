@@ -84,7 +84,7 @@ sections:
       wish for another chance.”**
 
     name: – Saber
-    title: Head chef at Parks
+    title: (Fate Stay Night)
     styles:
       self:
         height: auto
