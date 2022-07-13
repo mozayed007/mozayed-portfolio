@@ -105,7 +105,7 @@ sections:
         textAlign: center
     backgroundImage:
       type: BackgroundImage
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/304364.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
