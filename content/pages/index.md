@@ -44,6 +44,14 @@ sections:
         icon: github
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/bf517d4c2a4b8908e7b1292ee383a89cc0ba4328_hq.gif
