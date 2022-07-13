@@ -92,7 +92,7 @@ sections:
         height: screen
         width: wide
         padding:
-          - pt-64
+          - pt-80
           - pb-8
           - pr-4
           - pl-4
