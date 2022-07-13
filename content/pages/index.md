@@ -24,7 +24,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Projects
+        label: 'Projects | Blogs '
         showIcon: true
         icon: arrowRight
         style: primary
