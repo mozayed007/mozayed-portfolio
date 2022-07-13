@@ -89,7 +89,7 @@ sections:
     title: (Fate Stay Night)
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         padding:
           - pt-96
