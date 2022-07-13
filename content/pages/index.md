@@ -212,7 +212,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-        type: MediaGallerySection
+    type: MediaGallerySection
   - type: ContactSection
     colors: colors-e
     title: Join our club
