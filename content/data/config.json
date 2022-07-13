@@ -106,15 +106,6 @@
                 "label": "Facebook",
                 "url": "/",
                 "icon": "facebook"
-            },
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
             }
         ],
         "legalLinks": [
