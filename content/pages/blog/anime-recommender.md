@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Get Your Watch-List Automated !!!
 colors: colors-d
-date: '2021-11-03'
+date: '2022-07-03'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
