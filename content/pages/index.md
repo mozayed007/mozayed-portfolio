@@ -48,7 +48,7 @@ sections:
         altText: ''
         url: 'https://www.facebook.com/mozayed007'
         showIcon: true
-        icon: arrowRight
+        icon: facebook
         iconPosition: right
         elementId: ''
     media:
