@@ -121,7 +121,6 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/post-four.md
       - content/pages/blog/anime-recommender.md
     styles:
       self:
