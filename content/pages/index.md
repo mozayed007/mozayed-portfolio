@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: "Welcome to my portfolio. \U0001F44B\U0001F3FB"
-    subtitle: Fresh. Better. Faster.
+    subtitle: Geeking. Exciting. Accelerating.
     text: ''
     actions:
       - type: Button
