@@ -30,7 +30,6 @@ sections:
         style: primary
         url: /blog
       - type: Link
-        label: Learn more
         altText: ''
         url: |
           https://www.linkedin.com/in/mohamed-zayed-cie-2023/
