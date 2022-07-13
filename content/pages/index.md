@@ -28,7 +28,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: /blog
     media:
       type: ImageBlock
       url: /images/hero-2.png
