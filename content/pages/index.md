@@ -103,6 +103,13 @@ sections:
         textAlign: center
       title:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - elementId: ''
     colors: colors-c
     variant: variant-a
