@@ -96,7 +96,7 @@ sections:
           - pb-8
           - pr-4
           - pl-4
-        justifyContent: flex-end
+        justifyContent: center
       quote:
         textAlign: center
       name:
