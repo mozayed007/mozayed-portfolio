@@ -188,6 +188,7 @@ sections:
         url: 'https://www.kaggle.com/lordmz'
         showIcon: true
         icon: arrowRight
+        iconPosition: right
     backgroundImage:
       type: BackgroundImage
       url: /images/hero-3.webp
