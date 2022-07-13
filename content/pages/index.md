@@ -222,9 +222,9 @@ sections:
   - type: ContactSection
     colors: colors-d
     title: Have a question ?
-    text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+    text: |+
+      ### Feel free to DM me whenever you want. I'll try to respond ASAP.  
+
     form:
       type: FormBlock
       elementId: sign-up-form
