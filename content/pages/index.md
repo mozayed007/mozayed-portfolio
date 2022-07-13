@@ -47,7 +47,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.facebook.com/mozayed007'
         showIcon: false
         icon: arrowRight
         iconPosition: right
