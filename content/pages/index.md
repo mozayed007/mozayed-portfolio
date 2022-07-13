@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Welcome To Mo-Zayed Blog.
+    title: Welcome To My Portfolio.
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
