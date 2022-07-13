@@ -15,7 +15,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/39033.png
   altText: Post image
 bottomSections:
   - elementId: ''
