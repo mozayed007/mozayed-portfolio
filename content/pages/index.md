@@ -178,7 +178,7 @@ sections:
         textAlign: center
   - type: FeatureHighlightSection
     colors: colors-e
-    backgroundSize: full
+    backgroundSize: inset
     title: 'Find me also on Kaggle:'
     text: |
       Sharing Notebooks There.
