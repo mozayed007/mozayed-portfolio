@@ -169,7 +169,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-addTitleSuffix: true
-metaTags: []
+ addTitleSuffix: true
+ metaTags: []
 ---
 
