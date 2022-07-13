@@ -31,7 +31,7 @@ sections:
         url: /blog
     media:
       type: ImageBlock
-      url: /images/bf517d4c2a4b8908e7b1292ee383a89cc0ba4328_hq-1.png
+      url: /images/bf517d4c2a4b8908e7b1292ee383a89cc0ba4328_hq.gif
       altText: Hero image
       caption: Get your coffee for the ride ☕
     backgroundImage: null
