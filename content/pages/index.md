@@ -184,7 +184,7 @@ sections:
       Sharing Notebooks There.
     actions:
       - type: Link
-        label: Join adventure
+        label: My Profile
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight
