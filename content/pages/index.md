@@ -54,7 +54,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/bf517d4c2a4b8908e7b1292ee383a89cc0ba4328_hq.gif
-      altText: Hero image
+      altText: Get your coffee for the ride ☕.
       caption: Get your coffee for the ride ☕.
     backgroundImage: null
     styles:
