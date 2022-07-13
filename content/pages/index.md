@@ -16,47 +16,6 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-d
-    backgroundSize: inset
-    title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/hero.webp
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 85
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-20
-          - pb-96
-          - pr-9
-          - pl-9
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
     colors: colors-d
     elementId: ''
     backgroundSize: full
