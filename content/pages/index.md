@@ -40,7 +40,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://github.com/mozayed007'
         showIcon: false
         icon: arrowRight
         iconPosition: right
