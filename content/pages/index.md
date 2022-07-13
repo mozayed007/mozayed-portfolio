@@ -67,7 +67,7 @@ sections:
           - pl-0
           - pr-8
         alignItems: center
-        justifyContent: right
+        justifyContent: left
         flexDirection: row
       title:
         textAlign: left
