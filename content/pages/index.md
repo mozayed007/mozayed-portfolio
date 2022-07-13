@@ -83,7 +83,7 @@ sections:
       **“There are no regrets. If one can be proud of one’s life, one should not
       wish for another chance.”**
 
-    name: Isabelle Parks
+    name: – Saber
     title: Head chef at Parks
     styles:
       self:
