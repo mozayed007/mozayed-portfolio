@@ -40,8 +40,8 @@ sections:
       - type: Link
         altText: ''
         url: 'https://github.com/mozayed007'
-        showIcon: false
-        icon: arrowRight
+        showIcon: true
+        icon: github
         iconPosition: right
         elementId: ''
     media:
