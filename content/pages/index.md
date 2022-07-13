@@ -260,7 +260,7 @@ sections:
           width: full
           type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: 'Sign me up to get '
           isRequired: false
           width: full
           type: CheckboxFormControl
