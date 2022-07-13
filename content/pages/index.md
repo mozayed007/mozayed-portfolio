@@ -21,8 +21,9 @@ sections:
     backgroundSize: full
     title: "Welcome to my portfolio. \U0001F44B\U0001F3FB"
     subtitle: Geeking. Exciting. Accelerating.
-    text: |
-      Get your coffee for the ride ☕.
+    text: |+
+      ##### **Get your coffee for the ride ☕.**
+
     actions:
       - type: Button
         label: 'Projects | Blogs '
