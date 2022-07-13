@@ -35,7 +35,7 @@ sections:
         url: |
           https://www.linkedin.com/in/mohamed-zayed-cie-2023/
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:
