@@ -34,7 +34,7 @@ sections:
         altText: ''
         url: |
           https://www.linkedin.com/in/mohamed-zayed-cie-2023/
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
