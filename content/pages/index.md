@@ -45,7 +45,6 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
         altText: ''
         url: 'https://www.facebook.com/mozayed007'
         showIcon: false
