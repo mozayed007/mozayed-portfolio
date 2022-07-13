@@ -79,9 +79,10 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-b
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >+
+      **“There are no regrets. If one can be proud of one’s life, one should not
+      wish for another chance.”**
+
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
