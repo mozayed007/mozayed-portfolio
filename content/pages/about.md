@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: 'About Me :'
-    text: "# *Hi *there ,\U0001F64B\U0001F3FB‍♂️*I hope you're fine and doing well, your visit's appreciated .*\n\n#### My name is Mohamed Zayed Ahmed. A tech enthusiast, who loves to follow and understand, if possible, anything new in different technologies specially interdisciplinary.\n\n#### My main focus areas are: ML & Data Science, Cybersecurity, Cloud Technologies.\n\n#####\n\n"
+    text: "# *Hi there ,\U0001F64B\U0001F3FB‍♂️I hope you're fine and doing well, your visit's appreciated .*\n\n#### My name is Mohamed Zayed Ahmed. A tech enthusiast, who loves to follow and understand, if possible, anything new in different technologies specially interdisciplinary.\n\n#### My main focus areas are: ML & Data Science, Cybersecurity, Cloud Technologies.\n\n#####\n\n"
     styles:
       self:
         height: auto
