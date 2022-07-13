@@ -185,7 +185,7 @@ sections:
     actions:
       - type: Link
         label: My Profile
-        url: 'https://www.stackbit.com/'
+        url: 'https://www.kaggle.com/lordmz'
         showIcon: true
         icon: arrowRight
     backgroundImage:
