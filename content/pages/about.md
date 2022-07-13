@@ -19,13 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: 'About Me :'
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: "# *Hi *there ,\U0001F64B\U0001F3FB‍♂️*I hope you're fine and doing well, your visit's appreciated .*\n\n#### My name is Mohamed Zayed Ahmed. A tech enthusiast, who loves to follow and understand, if possible, anything new in different technologies specially interdisciplinary.\n\n#### My main focus areas are: ML & Data Science, Cybersecurity, Cloud Technologies.\n\n#####\n\n"
     styles:
       self:
         height: auto
