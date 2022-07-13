@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Hilary",
+    "lastName": "Ouse",
+    "role": "Head fisherman",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/hilary-ouse.png",
+        "altText": "Hilary Ouse photo"
+    }
+}

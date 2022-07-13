@@ -1,0 +1,84 @@
+{
+    "type": "ThemeStyle",
+    "fontHeadlines": "fontPrimary",
+    "h1": {
+        "size": "6xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h2": {
+        "size": "5xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h3": {
+        "size": "3xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h4": {
+        "size": "2xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h5": {
+        "size": "xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h6": {
+        "size": "lg",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "fontBody": "fontSecondary",
+    "main": "#EDEDED",
+    "light": "#ffffff",
+    "onLight": "#000000",
+    "dark": "#333333",
+    "onDark": "#ffffff",
+    "primary": "#D16F5A",
+    "onPrimary": "#ffffff",
+    "secondary": "#C5D8D9",
+    "onSecondary": "#215462",
+    "complementary": "#EDEDED",
+    "onComplementary": "#215462",
+    "complementaryAlt": "#215462",
+    "onComplementaryAlt": "#EAECEB",
+    "buttonPrimary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "none",
+        "horizontalPadding": 20,
+        "verticalPadding": 10,
+        "shadow": "none"
+    },
+    "buttonSecondary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "none",
+        "borderStyle": "solid",
+        "horizontalPadding": 20,
+        "verticalPadding": 10,
+        "shadow": "none"
+    },
+    "link": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "type": "Config",
+    "favicon": "/images/favicon.svg",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-d",
+        "secondaryColors": "colors-d",
+        "title": "Business",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Adventures",
+                "url": "/blog",
+                "altText": ""
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Contact us",
+                "url": "mailto:info@lorem.mail",
+                "altText": "Contact us",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-d",
+        "title": "Say hello",
+        "contacts": {
+            "title": "Contact details",
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Our phone",
+            "email": "info@lorem.mail",
+            "emailAltText": "Our email",
+            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Adventures",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact us",
+                "url": "mailto:info@lorem.mail",
+                "altText": ""
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "/",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "/",
+                "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "altText": "Facebook",
+                "label": "Facebook",
+                "url": "/",
+                "icon": "facebook"
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "/"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "defaultMetaTags": []
+}

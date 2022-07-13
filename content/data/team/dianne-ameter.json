@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Dianne",
+    "lastName": "Ameter",
+    "role": "Senior fisherwoman",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/dianne-ameter.png",
+        "altText": "Dianne Ameter photo"
+    }
+}

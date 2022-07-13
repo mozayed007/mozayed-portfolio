@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Desmond",
+    "lastName": "Eagle",
+    "role": "Co-founder",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/desmond-eagle.png",
+        "altText": "Desmond Eagle photo"
+    }
+}
