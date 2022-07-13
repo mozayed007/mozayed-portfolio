@@ -46,13 +46,6 @@ sections:
         icon: github
         iconPosition: right
         elementId: ''
-      - type: Link
-        altText: ''
-        url: 'https://www.facebook.com/mozayed007'
-        showIcon: true
-        icon: facebook
-        iconPosition: right
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/bf517d4c2a4b8908e7b1292ee383a89cc0ba4328_hq.gif
