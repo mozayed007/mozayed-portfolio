@@ -151,7 +151,7 @@ sections:
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Read More
+    readMoreLinkLabel: See More
     showAuthor: false
   - type: TextSection
     colors: colors-e
