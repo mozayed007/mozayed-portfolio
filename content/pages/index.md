@@ -32,7 +32,8 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: |
+          https://www.linkedin.com/in/mohamed-zayed-cie-2023/
         showIcon: false
         icon: arrowRight
         iconPosition: right
