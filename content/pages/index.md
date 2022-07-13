@@ -181,7 +181,7 @@ sections:
     backgroundSize: full
     title: 'Find me also on Kaggle:'
     text: |
-      [My Kaggle Profile.](https://www.kaggle.com/lordmz)
+      Sharing Notebooks There.
     actions:
       - type: Link
         label: Join adventure
