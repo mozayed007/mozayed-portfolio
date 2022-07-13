@@ -177,7 +177,7 @@ sections:
       text:
         textAlign: center
   - type: FeatureHighlightSection
-    colors: colors-d
+    colors: colors-e
     backgroundSize: full
     title: Try
     text: |
