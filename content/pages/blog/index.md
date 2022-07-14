@@ -89,7 +89,6 @@ bottomSections:
     type: MediaGallerySection        
   - type: ContactSection
     colors: colors-d
-
     elementId: null
     backgroundSize: full
     title: Have a question ?
