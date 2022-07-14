@@ -158,4 +158,3 @@ bottomSections:
     backgroundSize: full
 addTitleSuffix: true
 ---
-
