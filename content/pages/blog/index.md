@@ -89,8 +89,6 @@ bottomSections:
     type: MediaGallerySection        
   - type: ContactSection
     colors: colors-d
-    elementId: null
-    backgroundSize: full
     title: Have a question ?
     text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
      form:
