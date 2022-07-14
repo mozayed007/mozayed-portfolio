@@ -93,6 +93,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
+    backgroundsize: full
 =======        
   - type: DividerSection
     colors: colors-d
