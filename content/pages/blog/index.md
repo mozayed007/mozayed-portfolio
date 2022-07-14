@@ -22,29 +22,8 @@ styles:
   title:
     textAlign: center
 bottomSections:
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-20
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: ContactSection
-    colors: colors-d
+    colors: colors-e
     title: Have a question ?
     text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
     form:
