@@ -157,5 +157,76 @@ bottomSections:
       text:
         textAlign: center
     backgroundSize: full
+  - type: ContactSection
+    colors: colors-d
+    elementId: null
+    backgroundSize: full
+    title: Have a question ?
+    text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
+    form:
+      fields:
+        - name: firstName
+          label: First Name
+          hideLabel: true
+          placeholder: First Name
+          isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - name: lastName
+          label: Last Name
+          hideLabel: true
+          placeholder: Last Name
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: full
+          type: EmailFormControl
+        - name: address
+          label: Address
+          hideLabel: true
+          placeholder: Address
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: updatesConsent
+          label: Sign me up to recieve updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
+      submitLabel: Submit form
+      elementId: sign-up-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      styles:
+        submitLabel:
+          textAlign: center
+      type: FormBlock
+    media: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pr-4
+          - pl-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: center
+      text:
+        textAlign: center
 addTitleSuffix: true
 ---
