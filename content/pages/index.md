@@ -201,8 +201,8 @@ sections:
         padding:
           - pt-40
           - pb-60
-          - pr-4
-          - pl-4
+          - pr-2
+          - pl-2
         justifyContent: flex-start
       title:
         textAlign: left
