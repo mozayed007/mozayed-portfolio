@@ -43,8 +43,7 @@ bottomSections:
         justifyContent: center
       text:
         textAlign: center
-  - colors: colors-d
-   
+  - colors: colors-d 
   - type: ContactSection
     colors: colors-d
     title: Have a question ?
