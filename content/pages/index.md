@@ -213,7 +213,7 @@ sections:
       actions:
         justifyContent: flex-start 
   - type: ContactSection
-    colors: colors-e
+    colors: colors-d
     title: Join our club
     text: >
       We will notify you every time a shipment is heading to your neighborhood,
