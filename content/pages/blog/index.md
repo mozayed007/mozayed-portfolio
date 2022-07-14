@@ -42,9 +42,7 @@ bottomSections:
           - pl-4
         justifyContent: center
       text:
-        textAlign: center
-  - colors: colors-d
-    
+        textAlign: center   
   - type: ContactSection
     colors: colors-d
     title: Have a question ?
