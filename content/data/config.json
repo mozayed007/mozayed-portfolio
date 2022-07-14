@@ -33,7 +33,7 @@
                 "type": "Button",
                 "label": "Contact Me",
                 "url": "mailto:mohamedzayedpentest007@gmail.com",
-                "altText": "Contact us",
+                "altText": "DM ME",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
