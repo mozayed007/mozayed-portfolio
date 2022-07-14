@@ -44,7 +44,7 @@ sections:
 
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.webp
+      url: /images/wp2552767-wallpaper-naruto-hd.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
