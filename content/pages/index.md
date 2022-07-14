@@ -104,7 +104,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 70
   - elementId: ''
-    colors: colors-e
+    colors: colors-c
     variant: variant-a
     title: 'Recent Projects | Blogs :'
     actions:
