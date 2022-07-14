@@ -73,7 +73,7 @@ bottomSections:
       submitLabel: Submit form
       elementId: sign-up-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: 'mohamedzayedpentest007@gmail.com'
       styles:
         submitLabel:
           textAlign: center
