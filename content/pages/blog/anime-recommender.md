@@ -20,7 +20,7 @@ media:
 bottomSections:
   - elementId: ''
     variant: variant-d
-    colors: colors-d
+    colors: colors-b
     title: Read next
     showDate: true
     showAuthor: false

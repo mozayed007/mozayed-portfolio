@@ -7,7 +7,7 @@ postFeed:
   showAuthor: false
   showExcerpt: false
   showReadMoreLink: true
-  readMoreLinkLabel: Join adventure
+  readMoreLinkLabel: See more
   variant: variant-c
   colors: colors-e
   styles:
