@@ -21,19 +21,49 @@ postFeed:
 styles:
   title:
     textAlign: center
-bottomSections:
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - type: ContactSection
-    colors: colors-d
-
-    elementId: null
-    backgroundSize: full
-    title: Have a question ?
-    text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
-     form:
+    colors: colors-e
+    title: ' Have a question ?'
+    text: |
+      ### Feel free to DM me whenever you want. I'll try to respond ASAP.
+    form:
       type: FormBlock
       elementId: sign-up-form
-      destination: mozayedpentest007@gmail.com
-      action: /.netlify/functions/submission_created
+      destination: mohamedzayedpentest007@gmail.com
+      action: /.netlify/functions/submission_createdted
       fields:
         - name: firstName
           label: First Name
