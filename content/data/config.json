@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact Me",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:mozayedpentest007@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
