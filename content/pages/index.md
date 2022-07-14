@@ -284,5 +284,4 @@ sections:
         textAlign: center
     backgroundSize: full
 addTitleSuffix: true
-metaTags: []
 ---
