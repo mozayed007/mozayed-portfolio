@@ -104,7 +104,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 70
   - elementId: ''
-    colors: colors-d
+    colors: colors-b
     variant: variant-a
     title: 'Recent Projects | Blogs :'
     actions:
@@ -146,29 +146,6 @@ sections:
     showReadMoreLink: true
     readMoreLinkLabel: See more
     showAuthor: false
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    text: |+
-      ## Aim High !
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: FeatureHighlightSection
     colors: colors-c
     backgroundSize: inset
