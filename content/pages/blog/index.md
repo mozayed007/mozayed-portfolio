@@ -63,7 +63,7 @@ styles:
       type: FormBlock
       elementId: sign-up-form
       destination: mohamedzayedpentest007@gmail.com
-      action: /.netlify/functions/submission_created
+      action: /.netlify/functions/submission_createdted
       fields:
         - name: firstName
           label: First Name
