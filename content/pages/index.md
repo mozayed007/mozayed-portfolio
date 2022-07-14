@@ -283,10 +283,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-<<<<<<< HEAD
-    backgroundSize: full
-
-=======
   - type: DividerSection
     colors: colors-d
     styles:
@@ -300,7 +296,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
->>>>>>> parent of 30ce766 (index.md: changed)
 addTitleSuffix: true
 metaTags: []
 ---
