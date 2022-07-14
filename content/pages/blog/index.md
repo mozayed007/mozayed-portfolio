@@ -86,6 +86,7 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+        
   - type: ContactSection
     colors: colors-d
 
