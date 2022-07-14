@@ -36,7 +36,7 @@
                 "altText": "DM ME",
                 "style": "secondary",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "mail",
                 "iconPosition": "right"
             }
         ],
