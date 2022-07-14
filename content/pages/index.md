@@ -211,8 +211,7 @@ sections:
       text:
         textAlign: left
       actions:
-        justifyContent: flex-start
-       
+        justifyContent: flex-start 
   - type: ContactSection
     colors: colors-e
     title: Join our club
