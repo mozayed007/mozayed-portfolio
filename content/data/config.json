@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Content",
                 "url": "/blog",
                 "altText": ""
             }
