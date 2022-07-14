@@ -170,7 +170,7 @@ sections:
       text:
         textAlign: center
   - type: FeatureHighlightSection
-    colors: colors-e
+    colors: colors-b
     backgroundSize: inset
     title: 'Find me also on Kaggle:'
     text: |
