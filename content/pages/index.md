@@ -147,7 +147,7 @@ sections:
     readMoreLinkLabel: See more
     showAuthor: false
   - type: TextSection
-    colors: colors-e
+    colors: colors-d
     variant: variant-a
     text: |+
       ## Aim High !
