@@ -213,7 +213,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: ContactSection
-    colors: colors-d
+    colors: colors-b
     title: Have a question ?
     text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
     form:
