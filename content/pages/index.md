@@ -283,5 +283,6 @@ sections:
       text:
         textAlign: center
     backgroundSize: full
+    
 addTitleSuffix: true
 ---
