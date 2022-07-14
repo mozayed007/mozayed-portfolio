@@ -216,10 +216,11 @@ sections:
     colors: colors-d
     title: Have a question ?
     text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
+
     form:
       type: FormBlock
       elementId: sign-up-form
-      destination: ''
+      destination: mozayedpentest007@gmail.com
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName
@@ -251,7 +252,7 @@ sections:
           width: full
           type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: Sign me up to get news
           isRequired: false
           width: full
           type: CheckboxFormControl
@@ -280,7 +281,21 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    backgroundSize: full
+  - type: DividerSection
+    colors: colors-d
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-4
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+
+backgroundSize: full
 addTitleSuffix: true
 metaTags: []
 ---
