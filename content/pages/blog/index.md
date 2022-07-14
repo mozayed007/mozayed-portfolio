@@ -86,7 +86,11 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+<<<<<<< HEAD
+
+=======
     type: MediaGallerySection
+>>>>>>> parent of 951c527 (index.md: changed)
   - type: ContactSection
     colors: colors-d
     title: Have a question ?
