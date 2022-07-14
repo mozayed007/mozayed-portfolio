@@ -281,6 +281,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
+      backgroundSize: full
   - type: DividerSection
     colors: colors-d
     styles:
@@ -294,8 +295,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-
-backgroundSize: full
 addTitleSuffix: true
 metaTags: []
 ---
