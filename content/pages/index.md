@@ -104,7 +104,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 70
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     variant: variant-a
     title: 'Recent Projects | Blogs :'
     actions:
@@ -147,7 +147,7 @@ sections:
     readMoreLinkLabel: See more
     showAuthor: false
   - type: TextSection
-    colors: colors-e
+    colors: colors-d
     variant: variant-a
     text: |+
       ## Aim High !
@@ -170,7 +170,7 @@ sections:
       text:
         textAlign: center
   - type: FeatureHighlightSection
-    colors: colors-e
+    colors: colors-c
     backgroundSize: inset
     title: 'Find me also on Kaggle:'
     text: |
@@ -184,7 +184,7 @@ sections:
         iconPosition: right
     backgroundImage:
       type: BackgroundImage
-      url: /images/wp8740316-python-code-wallpapers.jpg
+      url: /images/1_bO6lRwKN8TlPhEbxNTHhAA_cleanup.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
@@ -199,10 +199,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-72
-          - pr-4
-          - pl-4
+          - pt-40
+          - pb-60
+          - pr-5
+          - pl-2
         justifyContent: flex-start
       title:
         textAlign: left
@@ -212,12 +212,10 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-       type: MediaGallerySection
   - type: ContactSection
     colors: colors-d
     title: Have a question ?
-    text: |+
-      ### Feel free to DM me whenever you want. I'll try to respond ASAP.  
+    text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
 
     form:
       type: FormBlock
@@ -283,10 +281,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-<<<<<<< HEAD
-    backgroundSize: full
-
-=======
+      backgroundSize: full
   - type: DividerSection
     colors: colors-d
     styles:
@@ -300,7 +295,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
->>>>>>> parent of 30ce766 (index.md: changed)
 addTitleSuffix: true
 metaTags: []
 ---

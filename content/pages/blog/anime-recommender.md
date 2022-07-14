@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Get Your Watch-List Automated !!!
+title: 'Recommendation-Lists Made EZ:'
 colors: colors-d
 date: '2022-07-30'
 excerpt: >-

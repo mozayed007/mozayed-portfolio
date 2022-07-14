@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Content",
                 "url": "/blog",
                 "altText": ""
             }
@@ -32,11 +32,11 @@
             {
                 "type": "Button",
                 "label": "Contact Me",
-                "url": "mailto:info@lorem.mail",
-                "altText": "Contact us",
+                "url": "mailto:mohamedzayedpentest007@gmail.com",
+                "altText": "DM ME",
                 "style": "secondary",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "mail",
                 "iconPosition": "right"
             }
         ],
@@ -48,7 +48,7 @@
     },
     "footer": {
         "variant": "variant-b",
-        "colors": "colors-d",
+        "colors": "colors-b",
         "title": "With All The Love In The World",
         "contacts": {
             "title": "Contact details",
