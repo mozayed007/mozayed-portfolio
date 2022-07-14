@@ -47,7 +47,7 @@ bottomSections:
     colors: colors-d
     title: Have a question ?
     text: |+
-    "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
+"### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
      form:
       type: FormBlock
       elementId: sign-up-form
