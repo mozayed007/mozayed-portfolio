@@ -100,8 +100,6 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-
-=======
   - type: DividerSection
     colors: colors-d
     styles:
