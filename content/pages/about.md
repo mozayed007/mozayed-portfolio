@@ -38,9 +38,12 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: >+
+      "If you don’t like your destiny, don’t accept it. Instead, have the
+      courage to change it the way you want it to be." -Naruto Uzumaki (Naruto).
+
+
+
     backgroundImage:
       type: BackgroundImage
       url: /images/bg.webp
