@@ -104,7 +104,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 70
   - elementId: ''
-    colors: colors-e
+    colors: colors-d
     variant: variant-a
     title: 'Recent Projects | Blogs :'
     actions:
@@ -216,7 +216,6 @@ sections:
     colors: colors-d
     title: Have a question ?
     text: "### Feel free to DM me whenever you want. I'll try to respond ASAP \U0001F338\n\n"
-
     form:
       type: FormBlock
       elementId: sign-up-form
