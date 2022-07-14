@@ -220,7 +220,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      destination: mozayedpentest007@gmail.com
+      destination: ''
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName
