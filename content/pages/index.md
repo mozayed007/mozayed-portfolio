@@ -184,7 +184,7 @@ sections:
         iconPosition: right
     backgroundImage:
       type: BackgroundImage
-      url: /images/1_bO6lRwKN8TlPhEbxNTHhAA.png
+      url: /images/1_bO6lRwKN8TlPhEbxNTHhAA_cleanup.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
