@@ -201,7 +201,7 @@ sections:
         padding:
           - pt-40
           - pb-60
-          - pr-2
+          - pr-5
           - pl-2
         justifyContent: flex-start
       title:
