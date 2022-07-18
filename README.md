@@ -1,7 +1,7 @@
 # A New Stackbit Project
 
 Welcome to your new project created with Stackbit!
-,Still Under construction ( portfolio.mo-zayed.tech )
+,Still Under construction ( portfolio.mo-zayed.tech ).
 Here are a few useful tips & links:
 
 ## Set up
